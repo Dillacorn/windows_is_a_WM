@@ -1,5 +1,7 @@
 # Turn Windows into a floating window manager
 
+[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) has made using windows 11 more bearable..
+
 ### Start Here
 # Focus Window on hover
 
@@ -44,14 +46,18 @@ x-mouse-controls breaks taskbar right-click functionality.. Learn to live with i
 
 * Remap a shotcut
 
-![image](https://i.imgur.com/CWKra0b.png)
+![image](https://i.imgur.com/QVvYkGh.png)
+
+* disable windows default screen capture
+
+![image](https://i.imgur.com/eQJ0hB1.png)
 
 ## Screenshot/Flameshot:
 ### Install [Flameshot](https://github.com/flameshot-org/flameshot)
 * Take screenshots with flameshot!
-### `ALT+Shift+s` to activate flameshot
+### `Win+Shift+s` to activate flameshot
 
-# AutoHotkey desktop switcher
+# AutoHotkey desktop switcher - broken on windows 11...
 
 ## turn this script off when online gaming -> anti-cheats don't like AutoHotkey
 
